@@ -115,6 +115,9 @@ This application is perfect for:
 - General brain anatomy learning
 - Interactive presentations
 
+## Live demo
+https://3dbrainmap.com/
+
 ## Credits
 
 - Inspired by [BrainFacts.org 3D Brain](https://www.brainfacts.org/3d-brain)
